@@ -1,0 +1,16 @@
+PODS:
+  - JikanSwift (0.1.0)
+
+DEPENDENCIES:
+  - JikanSwift (from `../`)
+
+EXTERNAL SOURCES:
+  JikanSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JikanSwift: e14ac96fa78f6cf3dbc900558795e67a5f0326c8
+
+PODFILE CHECKSUM: 34eacc22c75303b5654e7445ee1179d741e78c3e
+
+COCOAPODS: 1.7.5

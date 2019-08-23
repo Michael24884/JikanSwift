@@ -1,0 +1,22 @@
+{
+  "name": "JikanSwift",
+  "version": "0.1.0",
+  "summary": "A short description of JikanSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nightlightz24884/JikanSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nightlightz24884": "nightlightz24884@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Nightlightz24884/JikanSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JikanSwift/Classes/**/*"
+}

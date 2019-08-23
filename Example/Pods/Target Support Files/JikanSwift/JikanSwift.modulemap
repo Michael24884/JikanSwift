@@ -1,0 +1,6 @@
+framework module JikanSwift {
+  umbrella header "JikanSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
