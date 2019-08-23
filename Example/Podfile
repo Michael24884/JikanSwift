@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JikanSwift_Tests' do
+  pod 'JikanSwift', :path => '../'
+  
+  
+end
